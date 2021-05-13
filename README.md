@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akhilesh
 - 🌱 I’m currently learning Machine Learning and Web Development using Django.
-- 💞️ I’m looking to collaborate on Django
+- 💞️ I’m looking to collaborate on projects developed in Django and data science projects
 - 📫 Contact me at: akhilshahakh101@gmail.com, linkedin:https://www.linkedin.com/in/akhilesh-kumar-shah/
 
 <!---
